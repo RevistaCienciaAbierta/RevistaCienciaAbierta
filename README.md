@@ -11,9 +11,9 @@ La **Revista Internacional de Ciencia Abierta** es una publicación científica 
 
 Este repositorio contiene los **recursos y plantillas oficiales** para autores y autoras que deseen enviar sus manuscritos a la revista:
 
-- 📄 `plantilla-word.docx`: Plantilla Word con estructura IMRyD, créditos CRediT y formato APA 7.
-- 📦 `plantilla-latex.zip`: Versión en LaTeX compatible con Overleaf.
-- 📄 `ejemplo-articulo.pdf`: Ejemplo de artículo completo maquetado.
+- 📄 `ejemplo-articulo-ciencia-abierta-2-W.docx`: Plantilla Word con estructura IMRyD, créditos CRediT y formato APA 7.
+- 📦 `plantilla-latex-cienciaabierta-v2.zip`: Versión en LaTeX compatible con Overleaf.
+- 📄 `ejemplo-articulo-ciencia-abierta-2.pdf`: Ejemplo de artículo completo maquetado.
 
 ---
 
