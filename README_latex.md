@@ -36,6 +36,23 @@ También puede editar esta plantilla directamente en Overleaf desde el siguiente
 🔗 [Ver en Overleaf (modo lectura)](https://www.overleaf.com/read/mrbjpcbjjfvzt#15de3f)
 
 ---
+---
+
+## 📄 Ejemplo visual
+
+Puedes consultar un artículo de ejemplo ya maquetado con esta plantilla:
+
+🔗 [`ejemplo-articulo-ciencia-abierta.pdf`](./ejemplo-articulo-ciencia-abierta.pdf)
+
+Este documento muestra el formato final que se logra utilizando esta plantilla, incluyendo:
+
+- Estructura IMRyD
+- Créditos CRediT
+- Fechas editoriales (Recibido, Revisado, Aceptado)
+- ORCID, DOI y licencia Creative Commons
+
+Sirve como referencia visual para autores/as que deseen comprender la disposición final de su manuscrito.
+
 
 ## 🔐 Licencia
 
